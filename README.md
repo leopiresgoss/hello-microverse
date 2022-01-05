@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello World
+# Hello Microverse
 
 > This is my frist project at Microverse.
 
@@ -18,9 +18,9 @@ I could also apply the lessons about how to write code professionally and get fa
 
 👤 **Leonardo Pires Goss**
 
-- GitHub: 
-- Twitter: 
-- LinkedIn: 
+- GitHub: [@leopiresgoss](https://github.com/leopiresgoss)
+- Twitter: [@leopiresgoss](https://twitter.com/leonardopgoss)
+- [LinkedIn](https://www.linkedin.com/in/leonardogoss/)
 
 ## 🤝 Contributing
 
