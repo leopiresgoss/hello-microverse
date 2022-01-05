@@ -34,7 +34,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- A special thank you for @fernandorpm for this amazing [README template](https://github.com/microverseinc/readme-template)
+- A special thank for @fernandorpm for this amazing [README template](https://github.com/microverseinc/readme-template)
 
 ## 📝 License
 
